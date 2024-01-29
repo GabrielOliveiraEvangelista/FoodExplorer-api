@@ -29,7 +29,7 @@ Aqui está a primeira versão do aplicativo FoodExplorer. Este projeto tem como 
 ```
 
 
-## Apêndice
+## Deploy
 
 O deploy desta aplicação foi feito de forma gratuita via Render e Netlify. Por não ser um serviço pago, a hospedagem do BackEnd hiberna quando não há atividade no site.
 
